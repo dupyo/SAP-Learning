@@ -8,3 +8,4 @@
 - [Day 6. Message and Debug](https://clumsy-peridot-660.notion.site/SAP-NOTE-6-3-14-041182500dca4f0c9ea88d9e0368da69)
 - [Day 7. Function Module](https://clumsy-peridot-660.notion.site/SAP-NOTE-7-3-15-d9df2d483c134b88a931c2cd5d99d1e0)
 - [Day 8. Function Module 2](https://clumsy-peridot-660.notion.site/SAP-NOTE-8-3-16-84b1483eeaaf43ad9493007371aff125)
+- [Day 9. Concept of Class](https://clumsy-peridot-660.notion.site/SAP-NOTE-9-3-17-a81035feed854cceb22d1ca54cb321c6)
