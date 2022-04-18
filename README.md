@@ -10,3 +10,4 @@
 - [Day 8. Function Module 2](https://clumsy-peridot-660.notion.site/SAP-NOTE-8-3-16-84b1483eeaaf43ad9493007371aff125)
 - [Day 9. Concept of Class](https://clumsy-peridot-660.notion.site/SAP-NOTE-9-3-17-a81035feed854cceb22d1ca54cb321c6)
 - [Day 10. Internal Table](https://clumsy-peridot-660.notion.site/SAP-NOTE-10-3-21-0810a61c2f7147a7904701808b4f3e43)
+- [Day 11. Internal Table Operation](https://clumsy-peridot-660.notion.site/SAP-NOTE-11-3-22-1f4d85e6c62a4a19b0ce0011a834c8b9)
