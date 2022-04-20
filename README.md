@@ -11,3 +11,4 @@
 - [Day 9. Concept of Class](https://clumsy-peridot-660.notion.site/SAP-NOTE-9-3-17-a81035feed854cceb22d1ca54cb321c6)
 - [Day 10. Internal Table](https://clumsy-peridot-660.notion.site/SAP-NOTE-10-3-21-0810a61c2f7147a7904701808b4f3e43)
 - [Day 11. Internal Table Operation](https://clumsy-peridot-660.notion.site/SAP-NOTE-11-3-22-1f4d85e6c62a4a19b0ce0011a834c8b9)
+- [Day 12. Transparent Tables](https://clumsy-peridot-660.notion.site/SAP-NOTE-12-3-23-2fd1de3a6fe84710ae51105d454d7c60)
