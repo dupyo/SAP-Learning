@@ -13,3 +13,4 @@
 - [Day 11. Internal Table Operation](https://clumsy-peridot-660.notion.site/SAP-NOTE-11-3-22-1f4d85e6c62a4a19b0ce0011a834c8b9)
 - [Day 12. Transparent Tables](https://clumsy-peridot-660.notion.site/SAP-NOTE-12-3-23-2fd1de3a6fe84710ae51105d454d7c60)
 - [Day 13. Select Multilines from Table](https://clumsy-peridot-660.notion.site/SAP-NOTE-13-3-24-4379bb6bb63c416dadd034c65cf7e9b2)
+- [Day 14. Database Access](https://clumsy-peridot-660.notion.site/SAP-NOTE-14-3-28-bf194382c69f46138414eff7294ce930)
