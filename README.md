@@ -14,3 +14,4 @@
 - [Day 12. Transparent Tables](https://clumsy-peridot-660.notion.site/SAP-NOTE-12-3-23-2fd1de3a6fe84710ae51105d454d7c60)
 - [Day 13. Select Multilines from Table](https://clumsy-peridot-660.notion.site/SAP-NOTE-13-3-24-4379bb6bb63c416dadd034c65cf7e9b2)
 - [Day 14. Database Access](https://clumsy-peridot-660.notion.site/SAP-NOTE-14-3-28-bf194382c69f46138414eff7294ce930)
+- [Day 15. Selection Screen Attributes](https://clumsy-peridot-660.notion.site/SAP-NOTE-15-3-29-accc817ee4224e81a4a00e0d10189752)
