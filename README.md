@@ -16,4 +16,4 @@
 - [Day 14. Database Access](https://clumsy-peridot-660.notion.site/SAP-NOTE-14-3-28-bf194382c69f46138414eff7294ce930)
 - [Day 15. Selection Screen Attributes](https://clumsy-peridot-660.notion.site/SAP-NOTE-15-3-29-accc817ee4224e81a4a00e0d10189752)
 - [Day 16. ABAP Open-SQL](https://clumsy-peridot-660.notion.site/SAP-NOTE-16-3-30-dd80ffd4f35647e8be77f1a8efe008ad)
-- [Day 17. Test 1](https://clumsy-peridot-660.notion.site/SAP-NOTE-17-3-31-97f4f670dfe545938a7e1184a903dbfd)
+- [Day 17. 1st Test](https://clumsy-peridot-660.notion.site/SAP-NOTE-17-3-31-97f4f670dfe545938a7e1184a903dbfd)
