@@ -18,3 +18,4 @@
 - [Day 16. ABAP Open-SQL](https://clumsy-peridot-660.notion.site/SAP-NOTE-16-3-30-dd80ffd4f35647e8be77f1a8efe008ad)
 - [Day 17. 1st Test](https://clumsy-peridot-660.notion.site/SAP-NOTE-17-3-31-97f4f670dfe545938a7e1184a903dbfd)
 - [Day 18. Create Table](https://www.notion.so/SAP-NOTE-18-4-4-81e3d62a8e314d689b390968fd026bd0)
+- [Day 19. ABAP Dictionary](https://www.notion.so/SAP-NOTE-19-4-5-e817288b44c24fc5bc8d22b17967f74e)
