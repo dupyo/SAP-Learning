@@ -20,3 +20,4 @@
 - [Day 18. Create Table](https://www.notion.so/SAP-NOTE-18-4-4-81e3d62a8e314d689b390968fd026bd0)
 - [Day 19. ABAP Dictionary](https://www.notion.so/SAP-NOTE-19-4-5-e817288b44c24fc5bc8d22b17967f74e)
 - [Day 20. Technical Settings](https://www.notion.so/SAP-NOTE-20-4-6-a2a56c83ed154f3ab9ea586b20af20a2)
+- [Day 21. Check Table](https://www.notion.so/SAP-NOTE-21-4-7-205ed94be9b14239b45303606b73cd4e)
