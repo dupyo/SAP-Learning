@@ -22,4 +22,4 @@
 - [Day 20. Technical Settings](https://www.notion.so/SAP-NOTE-20-4-6-a2a56c83ed154f3ab9ea586b20af20a2)
 - [Day 21. Check Table](https://www.notion.so/SAP-NOTE-21-4-7-205ed94be9b14239b45303606b73cd4e)
 - [Day 22. Cardinality(Multipicity)](https://www.notion.so/SAP-NOTE-22-4-11-53aafee2ab1f43c39aac25d29f3c7ebb)
-- [Day 23. Database View]()
+- [Day 23. Database View](https://www.notion.so/SAP-NOTE-23-4-12-ce301b9501a44f6c9ac8356d9b94378f)
