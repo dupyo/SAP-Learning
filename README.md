@@ -25,3 +25,4 @@
 - [Day 23. Database View](https://www.notion.so/SAP-NOTE-23-4-12-ce301b9501a44f6c9ac8356d9b94378f)
 - [Day 24. Search Help and Nested Structure](https://www.notion.so/SAP-NOTE-7d5968d444e64f10a14b5f98f58051f7)
 - [Day 25. Screen Programming](https://www.notion.so/SAP-NOTE-7d5968d444e64f10a14b5f98f58051f7)
+- [Day 26. ]()
