@@ -31,3 +31,4 @@
 - [Day 29. Field Check](https://www.notion.so/SAP-NOTE-29-4-21-ca3b0c6242ab470bafbc037379ee791d)
 - [Day 30. Module Pool Program - Message](https://www.notion.so/SAP-NOTE-30-4-25-ed5acd8f26104bb4811478318c878e9c)
 - [Day 31. System Variables](https://www.notion.so/SAP-NOTE-31-4-26-10579622bc564929b36a5455bdf9bb72)
+- [Day 32. Sub Screen](https://www.notion.so/SAP-NOTE-32-4-27-97e7eb1b94a74f58a0405c81be611a86)
