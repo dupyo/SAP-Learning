@@ -34,3 +34,4 @@
 - [Day 32. Sub Screen](https://www.notion.so/SAP-NOTE-32-4-27-97e7eb1b94a74f58a0405c81be611a86)
 - [Day 33. Sub Screen - Tab Strip](https://www.notion.so/SAP-NOTE-33-4-28-e6cbc2fe217e442b9bb42b64dfcb6c3f)
 - [Day 34. Sub Screen - Function Module](https://www.notion.so/SAP-NOTE-34-5-2-84ea70c1cd1c4491a8bab87a87e915d6)
+- [Day 35. Table Control - Screen](https://www.notion.so/SAP-NOTE-35-5-3-05da3d5c2ca144c39d0850b6e8bd0183)
