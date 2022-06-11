@@ -39,3 +39,4 @@
 - [Day 37. ABAP List Viewer](https://www.notion.so/SAP-NOTE-37-5-9-38864231dda144a6843b5b3702c8e42b)
 - [Day 38. Selection Screen - Tab strips](https://www.notion.so/SAP-NOTE-38-5-10-eb854cdefb5d4c53b6d7c5d03617ea54)
 - [Day 39. ALV Creation - Reference Variable](https://www.notion.so/SAP-NOTE-38-5-10-eb854cdefb5d4c53b6d7c5d03617ea54)
+- [Day 40. ALV Design](https://www.notion.so/SAP-NOTE-40-5-12-e17414e3a02c4a62bbcf8f789006c22c)
