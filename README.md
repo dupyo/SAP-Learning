@@ -45,3 +45,4 @@
 - [Day 43. Select from Tables and Aggregate Functions](https://www.notion.so/SAP-NOTE-43-5-18-319215f98c764eeeadbbbacd841da3c0)
 - [Day 44. EX3_01(ALV_EX_ICON)](https://www.notion.so/SAP-NOTE-44-5-19-498c814f54434f55a720a0c3502b8357)
 - [Day 45. Database Updates with Open SQL and Locking](https://www.notion.so/SAP-NOTE-45-5-23-3dc008ae4f96408faeeaab6ce02930c2)
+- [Day 46. 3rd Test](https://www.notion.so/SAP-NOTE-46-5-24-3rd-Test-5b83716c3f464b4e9b2f4e3e6a2c2f5a)
