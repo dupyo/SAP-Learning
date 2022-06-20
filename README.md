@@ -47,3 +47,4 @@
 - [Day 45. Database Updates with Open SQL and Locking](https://www.notion.so/SAP-NOTE-45-5-23-3dc008ae4f96408faeeaab6ce02930c2)
 - [Day 46. 3rd Test](https://www.notion.so/SAP-NOTE-46-5-24-3rd-Test-5b83716c3f464b4e9b2f4e3e6a2c2f5a)
 - [Day 47. Locking and Database updates Web dynpro](https://www.notion.so/SAP-NOTE-47-5-25-946e3fbda59e483584e0ad4c4e63c501)
+- [Day 48. Context Controller](https://www.notion.so/SAP-NOTE-48-5-26-492d92dac61f40968f9bc342e1ed5f15)
