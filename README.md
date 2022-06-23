@@ -50,3 +50,4 @@
 - [Day 48. Context Controller](https://www.notion.so/SAP-NOTE-48-5-26-492d92dac61f40968f9bc342e1ed5f15)
 - [Day 49. Web Dynpro and Context Node Properties](https://www.notion.so/SAP-NOTE-49-5-30-ac7d2e4252f84e649b233460d9c9b279)
 - [Day 50. Data Binding](https://www.notion.so/SAP-NOTE-50-5-31-09871fb986bd419abb7364126ff70be7)
+- [Day 51. Standard Hook Methods](https://www.notion.so/SAP-NOTE-51-6-2-d28c368c7147473684ba9ab06abd49c5)
