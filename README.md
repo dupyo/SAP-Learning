@@ -54,3 +54,4 @@
 - [Day 52. Change of SAP Standard Software](https://www.notion.so/SAP-NOTE-52-6-7-524b8dac0f4e40659dfd5b6b080ff5be)
 - [Day 53. Customer Exits, User Exits and BAdis](https://www.notion.so/SAP-NOTE-53-6-8-38e8df04b36e428a8f32f5c6fbcf3e4e)
 - [Day 54. New BAdi and 4th Test](https://www.notion.so/SAP-NOTE-54-6-9-4th-Test-0ef933383c9f4bc78c5f1c3bedea2042)
+- [Day 55. Methods and Constructors](https://www.notion.so/SAP-NOTE-55-6-13-f39440ec571944309d0fc1f2ac84e49a)
