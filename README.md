@@ -57,4 +57,4 @@
 - [Day 55. Methods and Constructors](https://www.notion.so/SAP-NOTE-55-6-13-f39440ec571944309d0fc1f2ac84e49a)
 - [ABAP Certification Mock Exam(Schoology)](https://www.notion.so/Schoology-d9ee5894d8f64224a8f46694f8446d1b)
 - [Day 56. 2022 co-op SAP Track Project](https://www.notion.so/SAP-NOTE-56-6-15-7389a09373874f5a9aa0917499ba56fb)
-- [It's finished.]()
+- [It's finished.](https://github.com/dupyo/SAP-study/)
