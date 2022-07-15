@@ -36,7 +36,7 @@
 - [Day 34. Sub Screen - Function Module](https://www.notion.so/SAP-NOTE-34-5-2-84ea70c1cd1c4491a8bab87a87e915d6)
 - [Day 35. Table Control - Screen](https://www.notion.so/SAP-NOTE-35-5-3-05da3d5c2ca144c39d0850b6e8bd0183)
 - [Day 36. 2nd Test](https://www.notion.so/SAP-NOTE-36-5-4-26fb7e38d1fe49348f7ef8e08a6ca555)
-- [Day 37. ABAP List Viewer](https://www.notion.so/SAP-NOTE-37-5-9-38864231dda144a6843b5b3702c8e42b)
+- [Day 37. ABAP List Viewer and Selection Screen](https://www.notion.so/SAP-NOTE-37-5-9-38864231dda144a6843b5b3702c8e42b)
 - [Day 38. Selection Screen - Tab strips](https://www.notion.so/SAP-NOTE-38-5-10-eb854cdefb5d4c53b6d7c5d03617ea54)
 - [Day 39. ALV Creation - Reference Variable](https://www.notion.so/SAP-NOTE-38-5-10-eb854cdefb5d4c53b6d7c5d03617ea54)
 - [Day 40. ALV Design](https://www.notion.so/SAP-NOTE-40-5-12-e17414e3a02c4a62bbcf8f789006c22c)
