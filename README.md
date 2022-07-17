@@ -39,7 +39,7 @@
 - [Day 37. ABAP List Viewer and Selection Screen](https://www.notion.so/SAP-NOTE-37-5-9-38864231dda144a6843b5b3702c8e42b)
 - [Day 38. Selection Screen - Tab strips](https://www.notion.so/SAP-NOTE-38-5-10-eb854cdefb5d4c53b6d7c5d03617ea54)
 - [Day 39. ALV Creation - Reference Variable](https://www.notion.so/SAP-NOTE-38-5-10-eb854cdefb5d4c53b6d7c5d03617ea54)
-- [Day 40. ALV Design](https://www.notion.so/SAP-NOTE-40-5-12-e17414e3a02c4a62bbcf8f789006c22c)
+- [Day 40. ALV Design - Layout, Sort, Color](https://www.notion.so/SAP-NOTE-40-5-12-e17414e3a02c4a62bbcf8f789006c22c)
 - [Day 41. Field Catalog and Event Handler](https://www.notion.so/SAP-NOTE-41-5-16-b73fd26e3b98406fa8d3f85ccef0a3b5)
 - [Day 42. Event Handler - Popup Screen](https://www.notion.so/SAP-NOTE-42-5-17-ce96b53c436642289f32d313a6ee999d)
 - [Day 43. Select from Tables and Aggregate Functions](https://www.notion.so/SAP-NOTE-43-5-18-319215f98c764eeeadbbbacd841da3c0)
