@@ -42,7 +42,7 @@
 - [Day 40. ALV Design - Layout, Sort, Color](https://www.notion.so/SAP-NOTE-40-5-12-e17414e3a02c4a62bbcf8f789006c22c)
 - [Day 41. Field Catalog and Event Handler](https://www.notion.so/SAP-NOTE-41-5-16-b73fd26e3b98406fa8d3f85ccef0a3b5)
 - [Day 42. Event Handler - Popup Screen](https://www.notion.so/SAP-NOTE-42-5-17-ce96b53c436642289f32d313a6ee999d)
-- [Day 43. Select from Tables and Aggregate Functions](https://www.notion.so/SAP-NOTE-43-5-18-319215f98c764eeeadbbbacd841da3c0)
+- [Day 43. Read Multiple Tables and Aggregate Functions](https://www.notion.so/SAP-NOTE-43-5-18-319215f98c764eeeadbbbacd841da3c0)
 - [Day 44. Mock Exam EX3_01(ALV_EX_ICON)](https://www.notion.so/SAP-NOTE-44-5-19-498c814f54434f55a720a0c3502b8357)
 - [Day 45. Database Updates with Open SQL and Locking](https://www.notion.so/SAP-NOTE-45-5-23-3dc008ae4f96408faeeaab6ce02930c2)
 - [Day 46. 3rd Test](https://www.notion.so/SAP-NOTE-46-5-24-3rd-Test-5b83716c3f464b4e9b2f4e3e6a2c2f5a)
