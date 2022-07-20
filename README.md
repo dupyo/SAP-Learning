@@ -49,7 +49,7 @@
 - [Day 47. Locking and Database updates Web dynpro](https://www.notion.so/SAP-NOTE-47-5-25-946e3fbda59e483584e0ad4c4e63c501)
 - [Day 48. Context Controller and Web Dynpro Context](https://www.notion.so/SAP-NOTE-48-5-26-492d92dac61f40968f9bc342e1ed5f15)
 - [Day 49. Web Dynpro and Context Node Properties](https://www.notion.so/SAP-NOTE-49-5-30-ac7d2e4252f84e649b233460d9c9b279)
-- [Day 50. Data Binding](https://www.notion.so/SAP-NOTE-50-5-31-09871fb986bd419abb7364126ff70be7)
+- [Day 50. Data Binding and Controller Programming](https://www.notion.so/SAP-NOTE-50-5-31-09871fb986bd419abb7364126ff70be7)
 - [Day 51. Standard Hook Methods](https://www.notion.so/SAP-NOTE-51-6-2-d28c368c7147473684ba9ab06abd49c5)
 - [Day 52. Change of SAP Standard Software](https://www.notion.so/SAP-NOTE-52-6-7-524b8dac0f4e40659dfd5b6b080ff5be)
 - [Day 53. Customer Exits, User Exits and BAdis](https://www.notion.so/SAP-NOTE-53-6-8-38e8df04b36e428a8f32f5c6fbcf3e4e)
